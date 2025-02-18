@@ -10,7 +10,7 @@ from email.mime.multipart import MIMEMultipart
 EMAIL = "navyayandapalli@example.com"
 PASSWORD = "vezw hukv jkcl sojb"
 SMTP_SERVER = "smtp.example.com"
-SMTP_PORT = 587
+SMTP_PORT = 587 #tls port
 
 # Threshold values (80% usage)
 MEMORY_THRESHOLD = 80
